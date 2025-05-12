@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.weatherBox {
+  border: 1px solid black;
+}
+
+div {
+  text-align: center;
+}
